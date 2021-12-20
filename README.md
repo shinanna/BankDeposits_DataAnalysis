@@ -31,18 +31,4 @@ poutcome                             object
 Subscription to deposit (target)     object
 
 Encoding keys legend:
-
-	      0	      1	      2	      3	      4	      5	      6	            7	      8	      9	      10	      11
-job	      admin.	blue-collar	entrepreneurhousemaid	management	retired	self-employed	services	student	technician	unemployed	unknown
-marital	divorced	married	no	      single								
-education	primary	secondary	tertiary	unknown								
-default	no	      yes										
-housing	no	      yes										
-loan	no	yes										
-contact	unknown	cellular	telephone									
-poutcome	unknown	failure	other	      success								
-Subscription
-to deposit 
-(target)	no	      yes
-
 ![image](https://user-images.githubusercontent.com/93386700/146784030-76bebe18-c56e-411e-8b7c-0b79f9d4bc5d.png)
