@@ -13,7 +13,7 @@ SELECT id, age, job, marital, education
 FROM fulltable;
 
 CREATE TABLE bk_profile
-SELECT id, balance, housing, loan
+SELECT id, default, balance, housing, loan
 FROM fulltable;
 
 ALTER TABLE fulltable
