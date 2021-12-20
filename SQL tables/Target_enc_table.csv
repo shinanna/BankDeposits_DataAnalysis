@@ -1,0 +1,5 @@
+client_count,age_avg,default_avg,balance_avg,housing_avg,loan_avg,duration_avg,poutcome
+82,23.50,0,1022.04,0,0,302.71,3
+29,24.14,0,1342.31,0,0,448.52,2
+35,24.23,0,1331.54,0,0,391.77,1
+338,24.18,0,1133.00,0,0,479.50,0

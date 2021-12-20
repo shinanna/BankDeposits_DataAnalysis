@@ -1,0 +1,5 @@
+client_count,duration_avg,previous_avg,poutcome,target_subscription
+338,480,0,unknown,yes
+82,303,3,success,yes
+35,392,3,failure,yes
+29,449,4,other,yes
