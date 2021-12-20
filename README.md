@@ -12,4 +12,4 @@ TO DO TO DATE 20/12/2021
 - Lacks from instructions: Extra: try to build the helpful functions for data preparation
 
 Encoding keys legend:
-![image](https://user-images.githubusercontent.com/93386700/146784030-76bebe18-c56e-411e-8b7c-0b79f9d4bc5d.png)
+![image](https://user-images.githubusercontent.com/93386700/146784565-d26335c2-bd74-4a8b-b3b2-6b8f7446c476.png)
