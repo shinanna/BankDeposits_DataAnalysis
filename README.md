@@ -1,11 +1,7 @@
 # Project3_Group4
 Data preparation project on bank deposits dataset
 
-TO DO TO DATE 20/12/2021
-- Harmonize files: different number of rows 
-      Bank deposit - Before encoding .csv
-      Bank deposit - Final version.ipynb
-- 3 SQL tables
+TO DO TO DATE 21/12/2021
 - Clean repo
 - Trello
 - Slides
