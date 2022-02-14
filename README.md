@@ -1,4 +1,4 @@
-# Project3_Group4
+# Bank Deposits Data Analysis
 Data preparation project on bank deposits dataset
 
 TO DO TO DATE 21/12/2021
